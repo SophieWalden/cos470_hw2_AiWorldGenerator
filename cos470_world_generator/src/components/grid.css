@@ -1,0 +1,22 @@
+
+
+.row{
+    display: flex;
+    user-drag: none;
+    -webkit-user-drag: none;
+    user-select: none;
+    -moz-user-select: none;
+    -webkit-user-select: none;
+    -ms-user-select: none;
+    
+}
+
+.filled{
+    background-color: black !important;
+}
+
+.gridTile{
+    background-color: #E4E4D0;
+    border: solid black 1px;
+}
+
