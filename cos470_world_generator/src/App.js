@@ -71,7 +71,7 @@ function App() {
       <div id="baseScreenMiddleRow">
 
         <div className="worldGeneratorDiv">
-          <h2>Create new Grid</h2>
+          <h2>Create Empty Grid</h2>
 
           <input type="range" value={sliderValue} step="1" min="1" max="50" className="slider" id="gridSize" onChange={(e) => setSliderValue(parseInt(e.target.value))} />
           <h3>Grid Size: {sliderValue} x {sliderValue}</h3>

@@ -12,9 +12,32 @@
   background-color: #AEC3AE;
 }
 
+h1{
+  font-size: 1.7vw;
+}
+
+h2{
+  font-size: 1.2vw;
+}
+
+h3{
+  font-size: 1vw;
+}
+
+h4{
+  font-size: 1vw;
+}
+
+
+
+.worldGeneratorDiv input{
+  width: 9vw;
+}
+
 .optionsButton{
   width: 10vw;
   height: 5vh;
+  font-size: 0.8vw;
 }
 
 .worldGeneratorDiv{
