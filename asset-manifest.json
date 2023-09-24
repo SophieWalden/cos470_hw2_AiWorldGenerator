@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/cos470_hw2_AiWorldGenerator/static/css/main.a393137a.css",
-    "main.js": "/cos470_hw2_AiWorldGenerator/static/js/main.b6321a14.js",
+    "main.css": "/cos470_hw2_AiWorldGenerator/static/css/main.5effa8b3.css",
+    "main.js": "/cos470_hw2_AiWorldGenerator/static/js/main.c34a7af2.js",
     "static/js/787.4582dac6.chunk.js": "/cos470_hw2_AiWorldGenerator/static/js/787.4582dac6.chunk.js",
     "static/media/logo.svg": "/cos470_hw2_AiWorldGenerator/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/cos470_hw2_AiWorldGenerator/index.html",
-    "main.a393137a.css.map": "/cos470_hw2_AiWorldGenerator/static/css/main.a393137a.css.map",
-    "main.b6321a14.js.map": "/cos470_hw2_AiWorldGenerator/static/js/main.b6321a14.js.map",
+    "main.5effa8b3.css.map": "/cos470_hw2_AiWorldGenerator/static/css/main.5effa8b3.css.map",
+    "main.c34a7af2.js.map": "/cos470_hw2_AiWorldGenerator/static/js/main.c34a7af2.js.map",
     "787.4582dac6.chunk.js.map": "/cos470_hw2_AiWorldGenerator/static/js/787.4582dac6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a393137a.css",
-    "static/js/main.b6321a14.js"
+    "static/css/main.5effa8b3.css",
+    "static/js/main.c34a7af2.js"
   ]
 }
